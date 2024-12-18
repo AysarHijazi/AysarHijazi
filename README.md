@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AysarHijazi
-- 👀 I’m interested in flutte 
+- 👀 I’m interested in flutter 
 
 
 <!---
